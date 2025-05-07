@@ -1,6 +1,6 @@
 #  Kruskal’s Minimum Spanning Tree Algorithm
 
- [Link para Questão](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/?envType=problem-list-v2&envId=graph&difficulty=HARD)
+ [Link para Questão](https://www.naukri.com/code360/problems/kruskal-s-minimum-spanning-tree-algorithm_1082553?interviewProblemRedirection=true&search=Kruskal&count=25&page=1&sort_entity=order&sort_order=ASC&leftPanelTabValue=PROBLEM)
 
  #### Nivel de Dificuldade: MODERATE
 
